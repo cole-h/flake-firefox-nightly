@@ -1,0 +1,15 @@
+{
+  "cachedInfo": {
+    "chksum": "https://download.cdn.mozilla.net/pub/firefox/releases/81.0b2/SHA512SUMS",
+    "chksumSig": "https://download.cdn.mozilla.net/pub/firefox/releases/81.0b2/SHA512SUMS.asc",
+    "sha512": "bd303d4239da18dea00577d2033915f2d0f10cc8224d536ef6837ee43aae5d1d62984ca8a68745ede735a7fd1256671b92602f6cf0e4dbf5f2131b60171c2746",
+    "sig": null,
+    "sigSha512": null,
+    "url": "https://download.cdn.mozilla.net/pub/firefox/releases/81.0b2/linux-x86_64/en-US/firefox-81.0b2.tar.bz2"
+  },
+  "version": {
+    "name": "Firefox Beta",
+    "release": true,
+    "version": "81.0b2"
+  }
+}

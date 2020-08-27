@@ -2,11 +2,11 @@
   "nodes": {
     "cachixpkgs": {
       "locked": {
-        "lastModified": 1598238449,
-        "narHash": "sha256-Oj4lmzeOhiQgqcEpeXkwANkCstiCDOtevCgg6GlcDh4=",
+        "lastModified": 1598464600,
+        "narHash": "sha256-idJksP0deTp8bF1IT6ctAURIhVbHx5rRMq4b2inPlm4=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "14006b724f3d1f25ecf38238ee723d38b0c2f4ce",
+        "rev": "feff2fa6659799fe7439038b3eba453d62a16e69",
         "type": "github"
       },
       "original": {
@@ -18,11 +18,11 @@
     },
     "flake-utils": {
       "locked": {
-        "lastModified": 1597053966,
-        "narHash": "sha256-f9lbPS/GJ1His8fsDqM6gfa8kSqREU4eKiMCS5hrKg4=",
+        "lastModified": 1598466101,
+        "narHash": "sha256-JPhv+Ay98KMWRVRFlLEK9+eLpvNjhTBGWdFKZsE97ck=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "ec20f52e2ff61e9c36c2b894b62fc1b4bd04c71b",
+        "rev": "a586a6b966d59f53f45a04f8891fbc017dc09dbe",
         "type": "github"
       },
       "original": {
@@ -33,11 +33,11 @@
     },
     "master": {
       "locked": {
-        "lastModified": 1598500525,
-        "narHash": "sha256-hUh1Wrb6A89LjlOldgTcX0S4lKw0EChgycrHFmjrF20=",
+        "lastModified": 1598510876,
+        "narHash": "sha256-OQ+foYgsdd6EjSQf5sRFdjzI2XypwwzUJsXrnxYEBFw=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "c5f5462eb4d7d7e8f8804df34705843f45176b74",
+        "rev": "418f1bc30cfa563fbbd68b2cbe23c6d7aa76eeea",
         "type": "github"
       },
       "original": {
@@ -50,15 +50,15 @@
     "mozilla": {
       "flake": false,
       "locked": {
-        "lastModified": 1595288330,
-        "narHash": "sha256-ykuEol9PGFoVYBR34leE/P9O9b4eyvxCJaASY/zRjes=",
-        "owner": "colemickens",
+        "lastModified": 1598513612,
+        "narHash": "sha256-889gpKt7dPdtbSIk6ZqUS+VfsERlFA//ceFoZeij63w=",
+        "owner": "cole-h",
         "repo": "nixpkgs-mozilla",
-        "rev": "047556ee50548da3d4f72bc9c34c29e46e5c1c08",
+        "rev": "1a90fd49934cea7403bad4f69f5a3943a4f94149",
         "type": "github"
       },
       "original": {
-        "owner": "colemickens",
+        "owner": "cole-h",
         "repo": "nixpkgs-mozilla",
         "type": "github"
       }
